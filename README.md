@@ -1,7 +1,7 @@
 # Quality_Assurance
 
 <p align="center">
-  <img src="https://github.com/mariyaveleva16/Operating_Systems/blob/main/shell_logo.png" height="300" alt="volatility">
+  <img src="https://github.com/mariyaveleva16/Quality_Assurance_2021_2022/blob/main/image832.png" height="300" alt="volatility">
 </p>
 
 ## Description
