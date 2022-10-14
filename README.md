@@ -1,4 +1,4 @@
-# Quality_Assurance
+# Quality Assurance
 
 <p align="center">
   <img src="https://github.com/mariyaveleva16/Quality_Assurance_2021_2022/blob/main/image832.png" height="300" alt="volatility">
